@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.product_two{
+    text-align: left;
+    float: left;
+    border: 1px ,solid,rgb(221, 216, 216);
+    width: 17%;
+  
+    padding: 9px;
+    margin-left: 9px;
+    
+}
+.img{
+    width: 100%;
+    margin: 2px ,2px;
+}
+.clearFix{
+    clear: left;
+}
+.products{
+    margin-left: 35px;
+    margin-top: 40px;
+}
+.products h1{
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+.product_two p{
+    margin-top: 4px;
+    margin-bottom: 3px;
+}
+.product_one {
+    margin-bottom: 9px;
+    
+}
+ .price{
+    color: green;
+    font-weight: 900;
+    
+ }
+ span{
+    color: red;
+    font-size: 12px;
+    
+ }
+ button{
+   
+    height: auto;
+    padding: 4px;
+    text-align: center;
+    border: 0;
+    
+    margin-top: 12px;
+
+ }
+.add svg{
+    width: 15px;
+   
+    color: white;
+    
+   
+ }
+ .add {
+    width: 80%;
+    background-color: rgb(52, 166, 243);
+    padding-top: 11px;
+    padding-bottom: 5px;
+    
+ }
+ .heart{
+    width: 16%;
+    border: solid , rgb(52, 166, 243),1px;
+    
+    
+ }
+  button .button{
+    width: 80%;
+    margin-left: 4px;
+    padding-bottom: 4px;
+    font-size: 15px;
+    color: white;
+    font-weight: 700;
+    
+  }
+   .heart svg{
+    width: 80%;
+    background-color: white;
+  }
+  
